@@ -65,3 +65,14 @@ Project 1: Heart localization using TotalSegmentator
 | Pillow | Mask generation |
 | scikit-learn | Stratified splitting |
 | matplotlib | Visualization |
+
+## Results
+
+### Dataset Statistics
+![WhatsApp Image 2026-03-03 at 9 53 23 PM](https://github.com/user-attachments/assets/d4ca9f40-8d00-4e82-b746-d0efa9527795)
+
+### Preprocessing Pipeline Validation
+![WhatsApp Image 2026-03-03 at 9 52 41 PM](https://github.com/user-attachments/assets/474b0e43-6345-4550-a098-8d78c4df06a9)
+
+### Domain Gap Analysis — Gated vs Non-Gated CT
+![WhatsApp Image 2026-03-03 at 9 51 55 PM](https://github.com/user-attachments/assets/8aa6efbf-b3d9-431a-bdbb-6380a742e554)
