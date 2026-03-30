@@ -10,19 +10,14 @@
 
 ## About the Project
 
-**PrediCT** aims to increase the predictive power of Non-Contrast CT (NCCT) scans  
-for Major Adverse Cardiac Events (MACE) by robustly segmenting and visualizing  
-coronary artery calcium (CAC) patterns using the Stanford COCA dataset.
+**PrediCT** (Predicting Cardiovascular Events from CT) is a project
+under ML4SCI for Google Summer of Code 2026.
 
-**Organization:** ML4SCI (Machine Learning for Science)  
-**Program:** Google Summer of Code 2026  
+Coronary Artery Calcium (CAC) is one of the strongest predictors
+of heart disease risk. It is visible on cardiac CT scans but is
+rarely quantified automatically because it requires expert analysis,
+specialized equipment, and significant time.
 
-## Open Source Contributions
-
-Actively contributing to **nnU-Net** — the leading framework  
-for medical image segmentation:
-
-| PR | Description | Status |
-|----|-------------|--------|
-| [#2992](https://github.com/MIC-DKFZ/nnUNet/pull/2992) | Fix: Remove unused imagecodecs dependency causing install failures | 🔄 Open |
-| [#2993](https://github.com/MIC-DKFZ/nnUNet/pull/2993) | Fix: Resolve silent freeze and progress bar issues in preprocessing pipeline on Windows — verified on Heart CT dataset | 🔄 Open |
+PrediCT builds open-source deep learning pipelines to automatically
+detect, segment, and score CAC from CT scans — making cardiovascular
+risk assessment faster, cheaper, and more accessible.
