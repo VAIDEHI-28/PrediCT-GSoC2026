@@ -47,12 +47,7 @@ Stanford COCA dataset targeting Coronary Artery Calcium (CAC) segmentation.
 | Robustness check | 10/10 patients passed |
 | Calcium voxel ratio | <1% (severe class imbalance handled) |
 
----
 
-### 🔄 Specific Task — In Progress
-Project 1: Heart localization using TotalSegmentator
-
----
 
 ## Environment
 
