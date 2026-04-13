@@ -21,3 +21,7 @@ specialized equipment, and significant time.
 PrediCT builds open-source deep learning pipelines to automatically
 detect, segment, and score CAC from CT scans — making cardiovascular
 risk assessment faster, cheaper, and more accessible.
+## 📌 Project Tasks
+
+- 🔹 [Task 1](./Task1_Common_Evaluation/README.md)
+- 🔹 [Task 2](./Task_2/README.md)
